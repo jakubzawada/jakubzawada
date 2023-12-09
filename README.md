@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/16265425/207836953-763fc4de-da14-4ee5-ba25-7905ab7464e8.gif)]
+![MasterHead](https://user-images.githubusercontent.com/16265425/207836953-763fc4de-da14-4ee5-ba25-7905ab7464e8.gif)
 <h1 align="center">Hi 👋, I'm Jakub Zawada</h1>
 <h3 align="center">A flutter passionate from Poland 📲 ⌨️</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
