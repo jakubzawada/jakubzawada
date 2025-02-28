@@ -7,12 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/jakubzawada_3" target="blank"><img src="https://img.shields.io/twitter/follow/jakubzawada_3?logo=twitter&style=for-the-badge" alt="jakubzawada_3" /></a> </p>
 
-- 🔭 I’m currently working on [scrabble](https://github.com/jakubzawada/scrabble)
+- 🔭 I’m currently working on [Scrabble](https://github.com/jakubzawada/scrabble)
 
 - 📫 How to reach me **JakubZawadaa3@gmail.com**
 
 - 📱 My apps on google play 
-  [this_is_your_training](https://play.google.com/store/apps/details?id=com.jakubzawada.this_is_your_training)
+  [This_Is_Your_Training](https://play.google.com/store/apps/details?id=com.jakubzawada.this_is_your_training)
   [DropCheck](https://play.google.com/store/apps/details?id=com.jakubzawada.drop_check)
 
 - ⚡ Fun fact **I program in Flutter so efficiently that even my coffee cups create animations after drinking it**
