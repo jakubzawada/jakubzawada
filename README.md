@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jakubzawada_3" target="blank"><img src="https://img.shields.io/twitter/follow/jakubzawada_3?logo=twitter&style=for-the-badge" alt="jakubzawada_3" /></a> </p>
 
-- 🔭 I’m currently working on [Scrabble](https://github.com/jakubzawada/scrabble)
+- 🔭 I’m currently working on [DropCheckStore](https://github.com/jakubzawada/drop_check_store)
 
 - 📫 How to reach me **JakubZawadaa3@gmail.com**
 
